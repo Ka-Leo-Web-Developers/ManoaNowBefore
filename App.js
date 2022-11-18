@@ -70,8 +70,8 @@ class HomeScreen extends React.Component {
         require('./src/images/assets/EVENTS_THUMB_HALLOWEEN.png'),
       ],
       images: [ // Network image
-        require('./src/images/assets/APP_JP_POWERSPORTS.png'),
-        require('./src/images/assets/XK3_APP2.png'),
+        require('./src/images/assets/slider_JobOpportunity1.png'),
+        require('./src/images/assets/slider_JobOpportunity2.png'),
       ],
       programs: [ // Refers to Student Essentials
         { path: require('./src/images/assets/key_deals.png') },
